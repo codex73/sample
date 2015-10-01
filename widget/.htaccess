@@ -1,0 +1,7 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+
+#<Files script.js>
+#SetHandler php5-script
+#</Files>
